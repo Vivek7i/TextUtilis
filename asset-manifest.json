@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextUtilis-React-based-App/static/css/main.073c9b0a.css",
-    "main.js": "/TextUtilis-React-based-App/static/js/main.3f15dc98.js",
-    "static/js/787.ec704a7a.chunk.js": "/TextUtilis-React-based-App/static/js/787.ec704a7a.chunk.js",
-    "index.html": "/TextUtilis-React-based-App/index.html",
-    "main.073c9b0a.css.map": "/TextUtilis-React-based-App/static/css/main.073c9b0a.css.map",
-    "main.3f15dc98.js.map": "/TextUtilis-React-based-App/static/js/main.3f15dc98.js.map",
-    "787.ec704a7a.chunk.js.map": "/TextUtilis-React-based-App/static/js/787.ec704a7a.chunk.js.map"
+    "main.css": "/TextUtilis/static/css/main.073c9b0a.css",
+    "main.js": "/TextUtilis/static/js/main.6c5a957d.js",
+    "static/js/787.ec704a7a.chunk.js": "/TextUtilis/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/TextUtilis/index.html",
+    "main.073c9b0a.css.map": "/TextUtilis/static/css/main.073c9b0a.css.map",
+    "main.6c5a957d.js.map": "/TextUtilis/static/js/main.6c5a957d.js.map",
+    "787.ec704a7a.chunk.js.map": "/TextUtilis/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3f15dc98.js"
+    "static/js/main.6c5a957d.js"
   ]
 }
